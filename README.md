@@ -7,18 +7,15 @@ Olá, meu nome é Laís!👋
 > ### Você pode encontrar meu portfólio (em construção) em: https://laisgalvao.github.io/ 
  ____________________________________________
 
-# Habilidades, Frameworks e Ferramentas
-
+# Linguagens e frameworks que utilizo
 | HTML |  CSS  | Javascript | Vue.js | Laravel |
-|  :--:  |  :--:   |
-|  :--: | :--: |  :--: |
-|<img src="images/html-img.png" width="70">|<img src="images/css3-img.png" width="50">|<img src="images/js-img.png" width="60"> |
-<img src="images/vuejs-img.png" width="50">|<img src="images/laravel-img.png" width="50">| 
+|  :--:  |  :--: |  :--: | :--: |  :--: |
+|<img src="images/html-img.png" width="70">|<img src="images/css3-img.png" width="50">|<img src="images/js-img.png" width="60"> | <img src="images/vuejs-img.png" width="50">|<img src="images/laravel-img.png" width="50">| 
 
+# Outras ferramentas 
 | Figma |
 |  :--:  |
 |<img src="images/figma-img.png" width="90">| |
 _______________________________________
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaisGalvao&show_icons=true&theme=synthwave)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGalvao&layout=compact&theme=synthwave)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaisGalvao&show_icons=true&theme=synthwave)![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGalvao&layout=compact&theme=synthwave)  
