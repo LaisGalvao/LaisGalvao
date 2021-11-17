@@ -9,13 +9,11 @@ Olá, meu nome é Laís!👋
 
 # Habilidades, Frameworks e Ferramentas
 
-| HTML |  CSS  | Javascript |
+| HTML |  CSS  | Javascript | Vue.js | Laravel |
+|  :--:  |  :--:   |
 |  :--: | :--: |  :--: |
 |<img src="images/html-img.png" width="70">|<img src="images/css3-img.png" width="50">|<img src="images/js-img.png" width="60"> |
-
-| Vue.js | Laravel |
-|  :--:  |  :--:   |
-|<img src="images/vuejs-img.png" width="50">|<img src="images/laravel-img.png" width="50">| 
+<img src="images/vuejs-img.png" width="50">|<img src="images/laravel-img.png" width="50">| 
 
 | Figma |
 |  :--:  |
