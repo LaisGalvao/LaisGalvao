@@ -8,9 +8,9 @@ Olá, meu nome é Laís!👋
  ____________________________________________
 
 # Linguagens e frameworks que utilizo
-| HTML |  CSS  | Javascript | Vue.js | Laravel |
-|  :--:  |  :--: |  :--: | :--: |  :--: |
-|<img src="images/html-img.png" width="70">|<img src="images/css3-img.png" width="50">|<img src="images/js-img.png" width="60"> | <img src="images/vuejs-img.png" width="50">|<img src="images/laravel-img.png" width="50">| 
+| HTML |  CSS  | Javascript| PHP | Vue.js | Laravel |
+|  :--:  |  :--: |  :--: |:--: | :--: |  :--: |
+|<img src="images/html-img.png" width="70">|<img src="images/css3-img.png" width="50">|<img src="images/js-img.png" width="60">|<img src="images/php-img.png" width="60"> | <img src="images/vuejs-img.png" width="50">|<img src="images/laravel-img.png" width="50">| 
 
 # Outras ferramentas 
 | Figma |
