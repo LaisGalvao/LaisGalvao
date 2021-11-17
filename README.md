@@ -7,18 +7,15 @@ Olá, meu nome é Laís!👋
 > ### Você pode encontrar meu portfólio (em construção) em: https://laisgalvao.github.io/ 
  ____________________________________________
 
-# Habilidades
+# Habilidades, Frameworks e Ferramentas
 
 | HTML |  CSS  | Javascript |
 |  :--: | :--: |  :--: |
 |<img src="images/html-img.png" width="70">|<img src="images/css3-img.png" width="50">|<img src="images/js-img.png" width="60"> |
 
-# Frameworks
 | Vue.js | Laravel |
 |  :--:  |  :--:   |
 |<img src="images/vuejs-img.png" width="50">|<img src="images/laravel-img.png" width="50">| 
-
-# Ferramentas
 
 | Figma |
 |  :--:  |
