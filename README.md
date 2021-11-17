@@ -7,9 +7,22 @@ Olá, meu nome é Laís!👋
 > ### Você pode encontrar meu portfólio (em construção) em: https://laisgalvao.github.io/ 
  ____________________________________________
 
-![css3](images/css3-img.png)
-![html5](images/html-img.png)
-![javascript](images/js-img.png)
+# Habilidades
+
+| HTML |  CSS  | Javascript |
+|  :--: | :--: |  :--: |
+|<img src="images/html-img.png" width="70">|<img src="images/css3-img.png" width="50">|<img src="images/js-img.png" width="60"> |
+
+# Frameworks
+| Vue.js | Laravel |
+|  :--:  |  :--:   |
+|<img src="images/vuejs-img.png" width="50">|<img src="images/laravel-img.png" width="50">| 
+
+# Ferramentas
+
+| Figma |
+|  :--:  |
+|<img src="images/figma-img.png" width="90">| |
 _______________________________________
-__
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaisGalvao&show_icons=true&theme=synthwave)![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGalvao&layout=compact&theme=synthwave)  
