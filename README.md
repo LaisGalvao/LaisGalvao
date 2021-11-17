@@ -1,4 +1,4 @@
-# Olá, meu nome é Laís!👋
+<h1> Olá, meu nome é Laís!👋</h1>
 
 - 🔭 Atualmente sou estagiária em desenvolvimento fullstack 
 - 🌱 Sempre buscando desenvolver através do meu trabalho habilidades em: HTML, CSS, JavaScript, e alguns frameworks, como Laravel e Vue.js 
