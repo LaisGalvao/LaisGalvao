@@ -5,7 +5,5 @@
 
 ### Você pode encontrar meu portfólio (em construção) em: https://laisgalvao.github.io/ 
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGalvao&layout=compact&theme=synthwave)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaisGalvao&show_icons=true&theme=synthwave)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGalvao&layout=compact&theme=synthwave)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaisGalvao&show_icons=true&theme=synthwave)
 
