@@ -5,4 +5,4 @@
 
 Você pode encontrar meu prtfólio (em construção) em: https://laisgalvao.github.io/ 
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGalvao&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGalvao&layout=compact&theme=synthwave)
