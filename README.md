@@ -18,4 +18,6 @@ Olá, meu nome é Laís!👋
 |<img src="images/figma-img.png" width="90">| |
 _______________________________________
 
+
+# GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaisGalvao&show_icons=true&theme=synthwave)![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LaisGalvao&layout=compact&theme=synthwave)  
