@@ -17,7 +17,7 @@ Olá, meu nome é Laís!👋
 | :--: |  :--: |
 | <img src="images/vuejs-img.png" width="50">|<img src="images/laravel-img.png" width="50">| 
 
-# Outras ferramentas 
+# Ferramentas 
 | Figma |
 |  :--:  |
 |<img src="images/figma-img.png" width="90">| |
