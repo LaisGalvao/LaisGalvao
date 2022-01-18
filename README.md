@@ -5,11 +5,7 @@ Olá, meu nome é Laís!👋
 - 🌱 Sempre buscando desenvolver através do meu trabalho habilidades em: HTML, CSS, JavaScript, e alguns frameworks, como Laravel e Vue.js 
 
  ____________________________________________
-
-
-
-|<img src="images/html_5-512.png" width="60"> <img src="images/logo-css-3-768.png" width="50"> <img src="images/js-img.png" width="50"> <img src="images/php-img.png" width="60"> <img src="images/vuejs-img.png" width="50"> <img src="images/laravel-img.png" width="50"> <img src="images/figma-img.png" width="90"> | 
-
+<img src="images/html_5-512.png" width="60"> <img src="images/logo-css-3-768.png" width="50"> <img src="images/js-img.png" width="50"> <img src="images/php-img.png" width="60"> <img src="images/vuejs-img.png" width="50"> <img src="images/laravel-img.png" width="50"> <img src="images/figma-img.png" width="90">
 _______________________________________
 
 
