@@ -4,7 +4,6 @@ Olá, meu nome é Laís!👋
 - 🔭 Atualmente trabalhando com desenvolvimento fullstack 
 - 🌱 Sempre buscando desenvolver através do meu trabalho habilidades em: HTML, CSS, JavaScript, e alguns frameworks, como Laravel e Vue.js 
 
-> ### Você pode encontrar meu portfólio (em construção) em: https://laisgalvao.github.io/ 
  ____________________________________________
 
 # Linguagens 
