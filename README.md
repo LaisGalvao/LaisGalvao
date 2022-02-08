@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laisgalvao&label=Profile%20views&color=0e75b6&style=flat" alt="laisgalvao" /> </p>
 
-- 🔭 Atualmente sou **estagiária - fullstack dev**
+- 🔭 Atualmente sou **estagiária - desenvolvimento**
 
 - 🌱 Atualmente estou aprendendo sobre **Vue.js, AWS, Laravel**
 
