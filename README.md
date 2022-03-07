@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é Laís</h1>
 <h3 align="center">Fullstack dev e professora voluntária de informática básica</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laisgalvao&label=Profile%20views&color=0e75b6&style=flat" alt="laisgalvao" /> </p>
 
 - 🔭 Atualmente sou **estagiária - desenvolvimento** 
 
