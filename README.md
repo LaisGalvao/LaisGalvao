@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Laís</h1>
-<h3 align="center">Fullstack dev e professora voluntária de informática básica</h3>
+<h3 align="center">Fullstack developer e professora de informática básica</h3>
 
 
 - 🔭 Atualmente sou **estagiária - desenvolvimento full stack** , mas meu foco para o futuro é **front-end**
