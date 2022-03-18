@@ -2,11 +2,11 @@
 <h3 align="center">Fullstack dev e professora voluntária de informática básica</h3>
 
 
-- 🔭 Atualmente sou **estagiária - desenvolvimento** 
+- 🔭 Atualmente sou **estagiária - desenvolvimento full stack** , mas meu foco para o futuro é **front-end**
 
 - 🌱 Atualmente estou aprendendo sobre **Vue.js, AWS, Laravel**
 
-- 🤝 Estou em busca de novos voluntários para me ajudar com o [Game Memory Project](https://github.com/LaisGalvao/game-memory)
+- 🤝 Estou em busca de novos voluntários para me ajudar com o **[Game Memory Project](https://github.com/LaisGalvao/game-memory)**
 
 - ⚡ Fun fact: **Eu amo patinação, e sou desenhista também**
 
