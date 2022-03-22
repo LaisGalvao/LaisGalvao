@@ -4,13 +4,13 @@
 
 - 🔭 Atualmente sou **estagiária - desenvolvimento full stack** , mas meu foco para o futuro é **front-end**
 
-- 🌱 Atualmente estou aprendendo sobre **Vue.js, AWS, Laravel**
+- 🌱 Atualmente estou aprendendo sobre **Front-end, DevOps, UX**
 
 - 🤝 Estou em busca de novos voluntários para me ajudar com o **[Game Memory Project](https://github.com/LaisGalvao/game-memory)**
 
-- ⚡ Fun fact: **Eu amo patinação, e sou desenhista também**
+- ⚡ Fun fact: **Eu amo patinação, e sou desenhista também, trabalhei com isso por um tempo **
 
-<h3 align="justify">Contate-me:</h3>
+- 📫 Contate-me: 
 <p align="justify">
 <a href="https://linkedin.com/in/lais-galvão-bueno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lais-galvão-bueno" height="30" width="40" /></a>
 <a href="https://instagram.com/@missguita_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@missguita_777" height="30" width="40" /></a>
