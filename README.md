@@ -3,13 +3,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-- 🔭 Atualmente sou **estagiária - desenvolvimento full stack** , mas meu foco para o futuro é **front-end**
+- 🔭 Atualmente sou **estagiária - desenvolvimento full stack** , mas meu foco para o futuro é **front-end**;
 
-- 📚 Também dou aulas particulares de informática básica, meu público principal são pessoas quem tem dificuldade com tecnologia e pessoas com condições sociais mais vulneráveis
+- 📚 Também dou aulas particulares de informática básica, meu público principal são pessoas quem tem dificuldade com tecnologia e pessoas com condições sociais mais vulneráveis;
 
-- 🌱 Atualmente estou aprendendo sobre **Front-end, SEO, UX**
+- 🌱 Atualmente estou aprendendo sobre **Front-end, SEO, UX**;
 
-- 🤝 Estou em busca de novos voluntários para me ajudar com o **[Game Memory Project](https://github.com/LaisGalvao/game-memory)** 
+- 🤝 Estou em busca de novos voluntários para me ajudar com o **[Game Memory Project](https://github.com/LaisGalvao/game-memory)** , um app voltado a gamificação em tratamento de doenças relacionadas à memória;
 
 - ⚡ Fun fact: **Eu amo patinação, e sou desenhista também, trabalhei com arte durante um tempo**
 
