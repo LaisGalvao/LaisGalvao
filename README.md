@@ -5,13 +5,15 @@
 
 - 🔭 Atualmente sou **estagiária - desenvolvimento full stack** , mas meu foco para o futuro é **front-end**
 
+- 📚 Também dou aulas particulares de informática básica, meu público principal são pessoas quem tem dificuldade com tecnologia e pessoas com condições sociais mais vulneráveis
+
 - 🌱 Atualmente estou aprendendo sobre **Front-end, SEO, UX**
 
 - 🤝 Estou em busca de novos voluntários para me ajudar com o **[Game Memory Project](https://github.com/LaisGalvao/game-memory)** 
 
 - ⚡ Fun fact: **Eu amo patinação, e sou desenhista também, trabalhei com arte durante um tempo**
 
--  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+-  💌 Fale comigo: ⤵️
 
   
 <p align="left">
