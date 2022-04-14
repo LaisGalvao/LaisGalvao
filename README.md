@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, meu nome é Laís</h1>
+<h1 align="center">Olá 👋🏽, meu nome é Laís</h1>
 <h3 align="center">Fullstack developer e professora de informática básica</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
