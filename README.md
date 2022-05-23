@@ -31,4 +31,4 @@
 </p>  
 
 
-Meus links importantes: <a href"https://beacons.ai/laisgalvao" target="_blank"> Beacons.ai </a>
+Meus links importantes: <a href="https://beacons.ai/laisgalvao" target="_blank"> Beacons.ai </a>
