@@ -9,7 +9,7 @@
 
 - 🌱 Atualmente estou aprendendo sobre **Front-end, SEO, UX**;
 
-- 🤝 Estou em busca de novos voluntários para me ajudar com o **[Game Memory Project](https://github.com/LaisGalvao/game-memory)** , um app voltado a gamificação em tratamento de doenças relacionadas à memória;
+- 🤝 Estou em busca de novos voluntários para me ajudar com o **[Game Memory Project](https://github.com/Game-Memory-Project)** , um app voltado a gamificação em tratamento de doenças relacionadas à memória;
 
 - ⚡ Fun fact: **Eu amo patinação, toco guitarra e sou desenhista também, trabalhei com arte durante um tempo**
 
