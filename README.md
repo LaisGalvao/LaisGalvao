@@ -31,4 +31,4 @@
 </p>  
 
 
-<h3 align="left">Meus links importantes:<a style="font-weight: bold; font-size: 20px" href="https://beacons.ai/laisgalvao" target="_blank">Beacons.ai</a></h3>
+<h3 align="left">Meus links importantes:<a style="font-weight: bold; font-size: 20px" href="https://beacons.ai/laisgalvao" target="_blank"> Beacons.ai</a></h3>
