@@ -13,8 +13,11 @@
 
 - ⚡ Fun fact: **Eu amo patinação, toco guitarra e sou desenhista também, trabalhei com arte durante um tempo**
 
--  💌 Fale comigo: ⤵️
 
+
+
+
+-  💌 Fale comigo: ⤵️
   
 <p align="left">
   <a href="mailto:dev.laisgalvao@gmail.com" alt="Gmail">
@@ -28,7 +31,7 @@
 
   <a href="https://www.instagram.com/missguita_777/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/missguita_777/"/></a>
+ 
+  <h3>Meus links importantes:<a style="font-weight: bold; font-size: 20px" href="https://beacons.ai/laisgalvao" target="_blank"> Beacons.ai</a></h3>
 </p>  
 
-
-<h3 align="left">Meus links importantes:<a style="font-weight: bold; font-size: 20px" href="https://beacons.ai/laisgalvao" target="_blank"> Beacons.ai</a></h3>
