@@ -31,4 +31,4 @@
 </p>  
 
 
-Meus links importantes: <a href="https://beacons.ai/laisgalvao" target="_blank"> <img src="https://img.shields.io/badge/?style=for-the-badge&logo=appveyor" /> Beacons.ai </a>
+Meus links importantes: <p align="center" style="font-weight: bold; font-size: 20px"><a href="https://beacons.ai/laisgalvao" target="_blank"> Beacons.ai </a></p>
