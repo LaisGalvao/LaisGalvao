@@ -31,4 +31,5 @@
 </p>  
 
 
-<p align="left" style="font-weight: bold; font-size: 20px">Meus links importantes: <a style="font-weight: bold; font-size: 20px" href="https://beacons.ai/laisgalvao" target="_blank"> Beacons.ai </a></p>
+<p align="left" style="font-weight: bold; font-size: 20px">Meus links importantes: <a style="font-weight: bold; font-size: 20px" href="https://beacons.ai/laisgalvao" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/31069486/171659295-133157ac-906b-4870-b33d-728b0d836cfb.png)
+" width="50px" height="50px"> Beacons.ai </a></p>
