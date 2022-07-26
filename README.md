@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋🏽, meu nome é Laís</h1>
+<h1 align="center">Olá 👋🏽, sou a Laís</h1>
 <h3 align="center">Fullstack developer e professora de informática básica</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -7,13 +7,13 @@
 
 - 📚 Também dou aulas particulares de informática básica, meu público principal são pessoas quem tem dificuldade com tecnologia e pessoas com condições sociais mais vulneráveis;
 
-- 🌱 Atualmente estou aprendendo sobre **Front-end, SEO, UX**;
+- 🌱 Atualmente estou aprendendo sobre **SEO, UX/UI, acessibilidade**;
 
 - 🤝 Estou em busca de novos voluntários para me ajudar com o **[Game Memory Project](https://github.com/Game-Memory-Project)** , um app voltado a gamificação em tratamento de doenças relacionadas à memória;
 
 - ⚡ Fun fact: **Eu amo patinação, toco guitarra e sou desenhista também, trabalhei com arte durante um tempo**
 
-## Code Skills: 
+## Linguagens, libs e frameworks: 
 <p align="justify">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
