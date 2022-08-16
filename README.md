@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-- 🔭 Atualmente sou **estagiária - desenvolvimento full stack** , mas meu foco para o futuro é **front-end**;
+- 🔭 Atualmente sou **estagiária - desenvolvimento fullstack** , mas meu foco para o futuro é **front-end**;
 
 - 📚 Também dou aulas particulares de informática básica, meu público principal são pessoas quem tem dificuldade com tecnologia e pessoas com condições sociais mais vulneráveis;
 
