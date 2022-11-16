@@ -5,6 +5,7 @@
 
 - 🔭 Sou desenvolvedora fullstack com foco em **front-end**;
 - 🌱 Atualmente estou aprendendo sobre **SEO, UX/UI, acessibilidade, testes**;
+- 👩🏽‍💻🦇🤘🏽 sou voluntária na **[Gotham ONG](https://github.com/gotham-ong)**
 - 📚 Também dou aulas particulares de informática básica e introdução ao desenvolvimento front-end, saiba mais entrando em contato comigo no email **dev.laisgalvao@gmail.com** ;
 - 🤝 Estou em busca de novos voluntários para me ajudar com o **[Game Memory Project](https://github.com/Game-Memory-Project)** , um app voltado a gamificação em tratamento de doenças relacionadas à memória;
 - ⚡ Fun fact: **Eu amo patinação, toco guitarra e sou desenhista também, trabalhei com arte durante um tempo**
