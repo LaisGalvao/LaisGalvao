@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋🏽, sou a Laís</h1>
-<h3 align="center">Desenvolvedora e professora de informática básica</h3>
+<h3 align="center">Desenvolvedora e professora</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
