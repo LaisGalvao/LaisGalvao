@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://github.com/LaisGalvao/LaisGalvao/blob/main/images/svg%20(1).png)" min-width="400px" max-width="100%" width="100%" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/LaisGalvao/LaisGalvao/main/images/svg%20(1).png" min-width="400px" max-width="100%" width="100%" align="right" alt="Computador iuriCode">
 <h1 align="center">Olá 👋🏽, sou a Laís</h1>
 <h3 align="center">Desenvolvedora e professora</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
