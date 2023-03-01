@@ -3,12 +3,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-- 🔭 Sou desenvolvedora fullstack com foco em **front-end**;
-- 🌱 Atualmente estou aprendendo sobre **SEO, UX/UI, acessibilidade, testes**;
-- 👩🏽‍💻🦇🤘🏽 sou voluntária na **[Gotham ONG](https://github.com/gotham-ong)**
-- 📚 Também dou aulas particulares de informática básica e introdução ao desenvolvimento front-end, saiba mais entrando em contato comigo no email **dev.laisgalvao@gmail.com** ;
-- 🤝 Estou em busca de novos voluntários para me ajudar com o **[Game Memory Project](https://github.com/Game-Memory-Project)** , um app voltado a gamificação em tratamento de doenças relacionadas à memória;
+- 🔭 Desenvolvedora fullstack com foco em **front-end**, sou apaixonada por criar soluções digitais que resolvam problemas reais;
+- 🌱 Atualmente estou aprendendo sobre **SEO, UX/UI, acessibilidade e testes**, para melhorar ainda mais minhas habilidades e entregar produtos de qualidade;
+- 📚👩🏽‍💻🦇🤘🏽Trabalho como voluntária na **[Gotham ONG](https://github.com/gotham-ong)** e também dou aulas particulares de informática básica e introdução ao desenvolvimento front-end. 
+- 🤝 Procuro novos voluntários para me ajudar com o **[Game Memory Project](https://github.com/Game-Memory-Project)** , um app voltado a gamificação em tratamento de doenças relacionadas à memória;
 - ⚡ Fun fact: **Eu amo patinação, toco guitarra e sou desenhista também, trabalhei com arte durante um tempo**
+
+- Se você quiser conversar sobre projetos interessantes ou colaborações, fique à vontade para entrar em contato comigo pelo LinkedIn ou pelo meu e-mail dev.laisgalvao@gmail.com
 
 ## Linguagens, libs e frameworks: 
 <p align="justify">
@@ -30,15 +31,4 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
--  💌 Fale comigo: ⤵️
-  
-<p align="left">
-  <a href="mailto:dev.laisgalvao@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dev.laisgalvao@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/lais-galvao-bueno" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/lais-galvao-bueno" /></a>
- 
-  <h3>Meus links importantes:<a style="font-weight: bold; font-size: 20px" href="https://beacons.ai/laisgalvao" target="_blank"> Beacons.ai</a></h3>
-</p>  
 
