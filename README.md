@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/LaisGalvao/LaisGalvao/main/images/svg%20(1).png" width="100%" height="150px" alt="wave">
-<img src="https://raw.githubusercontent.com/LaisGalvao/LaisGalvao/main/images/carbon%20(2).png" width="100%" height="100%" style="position: relative; top: -10vh;"/>
+<img src="https://raw.githubusercontent.com/LaisGalvao/LaisGalvao/main/images/carbon%20(2).png" width="100%" height="100%" style="position: relative; top: -15vh;"/>
 <h1 align="center" style="margin-top: 0px">Olá 👋🏽, sou a Laís</h1>
 <h3 align="center">Desenvolvedora e professora</h3>
 
