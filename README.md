@@ -1,5 +1,5 @@
-<h1 align="center" style="margin-top: 0px">Olá 👋🏽, sou a Laís</h1>
+# Olá 👋🏽, sou a Laís
 
-<h3 align="center"> 🔭📚👩🏽‍💻🏽 Desenvolvedora fullstack e educadora social </h3>
+## 🔭📚👩🏽‍💻🏽 Desenvolvedora fullstack e educadora social 
 
-- Conheça meus projetos: **[social.edu](https://github.com/social-edu)**  e **[game memory project](https://github.com/Game-Memory-Project)**
+Conheça meus projetos: **[social.edu](https://github.com/social-edu)**  e **[game memory project](https://github.com/Game-Memory-Project)**
