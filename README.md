@@ -1,6 +1,6 @@
 # Hi! I'm Laís! 👋🏽
 
-## 💻 Full Stack Developer with experience in Go, TypeScript, Python, and PHP. Based in São Paulo, Brazil, I’m passionate about solving problems through technology and contributing to the open-source community.
+💻 Full Stack Developer with experience in Go, TypeScript, Python, and PHP. Based in São Paulo, Brazil, I’m passionate about solving problems through technology and contributing to the open-source community.
 
 🎓 Social Educator and Volunteer at {reprograma}, committed to creating inclusive initiatives and sharing knowledge to promote diversity in tech.
 
